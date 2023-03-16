@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Thu, 16 Mar 2023 17:47:27 &#43;0000</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 17:51:11 &#43;0000</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://tzssangglass.github.io/rss.xml" />
         
@@ -1059,30 +1059,6 @@
                                     <category domain="https://tzssangglass.github.io/tags/xdp/">XDP</category>
                                 
                             
-                        
-                    
-                
-            </item>
-        
-            <item>
-                <title>Hello World</title>
-                <link>https://tzssangglass.github.io/posts/hello-world/</link>
-                <guid isPermaLink="true">https://tzssangglass.github.io/posts/hello-world/</guid>
-                <pubDate>Fri, 03 Mar 2023 16:14:11 &#43;0800</pubDate>
-                
-                    <author>tzssangglass@apache.com (tzssangglass)</author>
-                
-                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
-                
-                    <description></description>
-                
-                
-                
-                
-                
-                    
-                        
-                    
                         
                     
                 
